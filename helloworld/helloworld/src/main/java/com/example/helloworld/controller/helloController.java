@@ -15,7 +15,7 @@ public class helloController {
 
 	public String printString() {
 
-		return "Test-2";//git edit 
+		return "Test-3";//using git bash 
 	}
 
 }
